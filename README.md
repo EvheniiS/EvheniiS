@@ -28,8 +28,27 @@ A skilled QA/AQA engineer with expertise in test automation, CI/CD practices, AP
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/EvheniiS/Playwright" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EvheniiS&repo=Playwright&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/EvheniiS/FoodProject" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EvheniiS&repo=FoodProject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/EvheniiS/Playwright" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EvheniiS&repo=Playwright&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/EvheniiS/FoodProject" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EvheniiS&repo=FoodProject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center">
+  <a href="https://github.com/EvheniiS/inquiry-decision-maker" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EvheniiS&repo=inquiry-decision-maker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/EvheniiS/test-case-analyzer" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EvheniiS&repo=test-case-analyzer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+<br /><br /><br /><br /><br /><br /><br />
+
 
 <div width="100%" align="center"><a href="https://github.com/EvheniiS/TodoMCV_Automating_in_Browser_with_JavaScript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EvheniiS&repo=TodoMCV_Automating_in_Browser_with_JavaScript&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/EvheniiS/udemy_JavaScript-React" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EvheniiS&repo=udemy_JavaScript-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
