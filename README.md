@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Evhenii
 ===============================================================================================================================
 
-Automation QA Engineer | At AccessSoftek ( SaaS B2B Online Banking platform) 
+Automation QA Engineer | At Access Softek ( SaaS B2B Online Banking platform) 
 ---------------------------------------------
 
 A skilled QA/AQA engineer with expertise in test automation, CI/CD practices, API testing, and mobile security testing. Passionate about leveraging AI to optimize testing processes and sharing knowledge to improve team capabilities.
