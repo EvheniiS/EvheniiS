@@ -7,7 +7,7 @@ Automation QA Engineer | At Access Softek ( SaaS B2B Online Banking platform)
 A skilled QA/AQA engineer with expertise in test automation, CI/CD practices, API testing, and mobile security testing. Passionate about leveraging AI to optimize testing processes and sharing knowledge to improve team capabilities.
 
 *   🌍  I'm based in Ukraine
-*   🖥️  See my portfolio at [https://github.com/EvheniiS](http://https://github.com/EvheniiS)
+*   🖥️  See my portfolio at [https://github.com/EvheniiS](https://github.com/EvheniiS)
 *   ✉️  You can contact me at [https://www.linkedin.com/in/evgeeso/](mailto:https://www.linkedin.com/in/evgeeso/)
 *   🧠  I'm learning Enhancing my skills in TypeScript, Playwright, and other automation tools.
 *   🤝  I'm open to collaborating on Exciting projects that require automation expertise or QA strategies.
